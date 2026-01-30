@@ -1,0 +1,10 @@
+# For llm_classification_reproducible.ipynb and simple_compare.py
+# Install: pip install -r requirements.txt (from this dir) or -r SRC/llm_comparison/requirements.txt (from repo root)
+aiohttp
+google-genai
+google-generativeai
+pandas
+python-dotenv
+regex
+scikit-learn
+tqdm
